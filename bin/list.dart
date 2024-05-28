@@ -1,4 +1,12 @@
 void main() {
+  /** List
+   * List merupakan tipe data yang berisikan kumpulan data
+   * Di bahasa pemrograman lain, tipe data ini dikenal dengan tipe data Array
+   * Saat kita membuat List, kita perlu menentukan isi dari tipe data List
+   * Untuk membuat data List, kita bisa menggunakan []
+
+  */
+
   List<int> listInt = [];
 
   var listString = <String>[];
