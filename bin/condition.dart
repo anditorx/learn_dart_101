@@ -4,7 +4,7 @@ void main() {
     Kasus seperti ini, kita bisa menggunakan else if
     Else if bisa ditambahkan sebanyak-banyaknya
     Ketika salah satu kondisi terpenuhi, maka otomatis akan berhenti,
-    if else selanjutnya tidak akan dieksekusi
+    if else selanjutnya tidak akan dieksekusi.
 
   * */
 
